@@ -1,0 +1,26 @@
+.body {
+    background-image: url('../images/home_bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+.logo {
+    height: 80px;
+    margin: auto;
+    display: flex;
+}
+.marq {
+    font-size: 1.4rem;
+    color:white;
+    color:white;
+	background-color:black;
+
+}
+ .wel{
+
+ 	text-align:center;
+	font-size: 1.4rem;
+	color:white;
+	background-color:black;
+}
