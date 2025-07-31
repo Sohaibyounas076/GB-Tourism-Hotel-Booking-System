@@ -39,13 +39,13 @@ Watch the full demo of how GB Tourism works on YouTube:
 ### 📄 About Page
 ![About Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/about.png)
 
-### 🔐 Admin - Admin Add Hotel's Page 
-![Admin Add Hotel's](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
+### 🔐 Admin - Add Hotel's Page 
+![Admin Add Hotel's](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel.png)
 
 ### 🛏️ Admin - Add Hotel Room's Page
 ![Admin Add  Hotel Room](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
 
-### 🎯 Admin - Hotel Offers
+### 🎯 Admin - Add Hotel Offers
 ![Admin Add Hotel  Offers](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20offering.png)
 
 ### 🛏️ Admin - Add Hotels Spec Page 
