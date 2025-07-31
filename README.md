@@ -14,6 +14,45 @@ This project was built for a university student at the **University of Sargodha*
 - User registration and login
 - Hotel listing with services and room details
 - Contact form and review submission
+....
+
+  ## 🎥 Demo Video
+Watch the full demo of how GB Tourism works on YouTube:
+[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+...
+
+## 📷 Screenshots
+
+### 🏠 Website Registration Page
+![Website Registration Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/reg.png)
+
+### 🏠 Website Login Page
+![Website Login Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/login.png)
+
+### 🏠 Website Home Page
+![Website Home Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/home.png)
+
+### 🏨 Hotel Details Page 
+![Hotel Details Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/hotel%20view.png)
+
+### 📄 About Page
+![About Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/about.png)
+
+### 🔐 Admin - Admin Add Hotel's Page 
+![Admin Add Hotel's](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
+
+### 🛏️ Admin - Add Hotel Room's Page
+![Admin Add  Hotel Room](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
+
+### 🎯 Admin - Hotel Offers
+![Admin Add Hotel  Offers](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20offering.png)
+
+### 🛏️ Admin - Add Hotels Spec Page 
+![Admin Add Room Spec](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20Specifications.png)
+
+
+....
 
 ## 🧱 📁 Repository Structure
 ```bash
@@ -58,41 +97,6 @@ You can use this project **without purchasing hosting** by running it locally us
 6. Visit [http://localhost/ladies-brand](http://localhost/ladies-brand) in your browser to view the site.
 
 ---
-
-## 📷 Screenshots
-
-### 🏠 Website Registration Page
-![Website Registration Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/reg.png)
-
-### 🏠 Website Login Page
-![Website Login Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/login.png)
-
-### 🏠 Website Home Page
-![Website Home Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/home.png)
-
-### 🏨 Hotel Details Page 
-![Hotel Details Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/hotel%20view.png)
-
-### 📄 About Page
-![About Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/about.png)
-
-### 🔐 Admin - Admin Add Hotel's Page 
-![Admin Add Hotel's](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
-
-### 🛏️ Admin - Add Hotel Room's Page
-![Admin Add  Hotel Room](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
-
-### 🎯 Admin - Hotel Offers
-![Admin Add Hotel  Offers](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20offering.png)
-
-### 🛏️ Admin - Add Hotels Spec Page 
-![Admin Add Room Spec](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20Specifications.png)
-
-
-
-## 🎥 Demo Video
-Watch the full demo of how GB Tourism works on YouTube:
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
 ## 👨‍💻 Developed By
 **Sohaib Younas**  
