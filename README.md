@@ -15,7 +15,7 @@ This project was built for a university student at the **University of Sargodha*
 - Hotel listing with services and room details
 - Contact form and review submission
 
-## 🧱 Folder Structure
+## 🧱 📁 Repository Structure
 ```bash
 GB-Tourism/
 │
@@ -46,26 +46,49 @@ GB-Tourism/
 ```
 
 📌 **Note:** A complete SQL database file `gb.sql` is included. You can import it into **phpMyAdmin** using **XAMPP** or **Laragon** and run the entire application on your local machine.
+## 💻 How to Set Up the Project (Localhost)
+
+You can use this project **without purchasing hosting** by running it locally using **XAMPP**. Just follow these steps:
+
+1. Install [XAMPP](https://www.apachefriends.org/index.html) on your computer.
+2. Copy the `ladies-brand/` folder into the `htdocs/` directory inside your XAMPP installation.
+3. Open [phpMyAdmin](http://localhost/phpmyadmin) and create a new database (e.g., `ladies_brand`).
+4. Import the `ladies-brand-database.sql` file into your new database.
+5. Open the `wp-config.php` file in the project root and update your database credentials accordingly.
+6. Visit [http://localhost/ladies-brand](http://localhost/ladies-brand) in your browser to view the site.
+
+---
 
 ## 📷 Screenshots
 
-### 🏠 Home Page
-![Home Page](images/screenshots/home.png)
+### 🏠 Website Registration Page
+![Website Registration Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/reg.png)
 
-### 🏨 Hotel Listings
-![Hotels Page](images/screenshots/hotels.png)
+### 🏠 Website Login Page
+![Website Login Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/login.png)
+
+### 🏠 Website Home Page
+![Website Home Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/home.png)
+
+### 🏨 Hotel Details Page 
+![Hotel Details Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/hotel%20view.png)
 
 ### 📄 About Page
-![About Page](images/screenshots/about.png)
+![About Page](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/about.png)
 
-### 🔐 Admin - Add Hotel
-![Admin Add Hotel](images/screenshots/admin-add-hotel.png)
+### 🔐 Admin - Admin Add Hotel's Page 
+![Admin Add Hotel's](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
+
+### 🛏️ Admin - Add Hotel Room's Page
+![Admin Add  Hotel Room](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/adin%20hotel%20room.png)
 
 ### 🎯 Admin - Hotel Offers
-![Hotel Offers](images/screenshots/admin-hotel-offers.png)
+![Admin Add Hotel  Offers](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20offering.png)
 
-### 🛏️ Admin - Add Room
-![Admin Add Room](images/screenshots/admin-add-room.png)
+### 🛏️ Admin - Add Hotels Spec Page 
+![Admin Add Room Spec](https://github.com/Sohaibyounas076/GB-Tourism-Hotel-Booking-System/blob/main/Preview%20Screen%20Shots/admin%20hotel%20Specifications.png)
+
+
 
 ## 🎥 Demo Video
 Watch the full demo of how GB Tourism works on YouTube:
@@ -73,8 +96,11 @@ Watch the full demo of how GB Tourism works on YouTube:
 
 ## 👨‍💻 Developed By
 **Sohaib Younas**  
-💼 [Portfolio](https://sohaibyounas076.github.io/portfolio)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sohaibyounas076)  
+- 🔗 [LinkedIn](https://linkedin.com/in/sohaibyounas076)  
+- 🌐 [Portfolio Website](https://sohaibyounas076.github.io/portfolio/)  
+- 📧 *Email available via LinkedIn/Fiverr contact*
+
+---
 
 ---
 Feel free to use, improve, or customize the project for your learning or final year submission.  
