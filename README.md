@@ -18,7 +18,7 @@ This project was built for a university student at the **University of Sargodha*
 
   ## 🎥 Demo Video
 Watch the full demo of how GB Tourism works on YouTube:
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch Demo](https://www.loom.com/share/033cdc3a04ec484ca26fc27f26e20e3f?sid=9f7e8eb3-f6c8-486d-8b76-07b9bf14cfe0)
 
 ...
 
